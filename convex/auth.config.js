@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: String(process.env.DOMAIN_CONVEX),
+      domain: "https://actual-mole-73.clerk.accounts.dev",
       applicationID: "convex",
     },
   ],
